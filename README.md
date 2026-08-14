@@ -52,3 +52,13 @@
   <sub>ved Patel · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
   built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
+
+![GitHub Snake Light](https://github.com/<username>/<username>/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/<username>/<username>/blob/output/github-snake-dark.svg)
+
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/<username>/<username>/blob/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/<username>/<username>/blob/output/github-snake.svg" />
+ <img alt="github-snake" src="https://github.com/<username>/<username>/blob/output/github-snake.svg" />
+</picture>
