@@ -69,3 +69,4 @@ Generates a snake game from a github user contributions graph
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+![snake gif](https://github.com/Vedpatel1112/Vedpatel1112/blob/output/github-snake-dark.svg)
